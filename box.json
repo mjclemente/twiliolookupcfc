@@ -1,0 +1,54 @@
+{
+  "author": "Matthew Clemente <mjclemente@gmail.com>",
+  "location": "mjclemente/twiliolookupcfc#v1.0.0",
+  "version": "1.0.0",
+  "bugs": "https://github.com/mjclemente/twiliolookupcfc/issues",
+  "changelog": "",
+  "contributors": [],
+  "dependencies": {},
+  "description": "A CFML wrapper for the Twilio Lookup API.",
+  "devDependencies": {},
+  "documentation": "https://github.com/mjclemente/twiliolookupcfc/blob/main/README.md",
+  "homepage": "https://github.com/mjclemente/twiliolookupcfc",
+  "ignore": ["**/.*", "/test/", "/tests/"],
+  "installPaths": {},
+  "instructions": "",
+  "keywords": ["twilio", "phone", "telephone", "api"],
+  "license": [
+    {
+      "type": "MIT",
+      "URL": "https://github.com/mjclemente/twiliolookupcfc/blob/main/LICENSE"
+    }
+  ],
+  "name": "twiliolookupcfc",
+  "private": false,
+  "projectURL": "https://github.com/mjclemente/twiliolookupcfc",
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/mjclemente/twiliolookupcfc"
+  },
+  "scripts": {},
+  "shortDescription": "A CFML wrapper for the Twilio Lookup API.",
+  "slug": "twiliolookupcfc",
+  "testbox": {
+    "bundles": "",
+    "directory": "tests.specs",
+    "excludes": "",
+    "labels": "",
+    "options": {},
+    "recurse": true,
+    "reporter": "",
+    "runner": [
+      {
+        "default": ""
+      }
+    ],
+    "testBundles": "",
+    "testSpecs": "",
+    "testSuites": "",
+    "verbose": true,
+    "watchDelay": 500,
+    "watchPaths": "**.cfc"
+  },
+  "type": "modules"
+}
